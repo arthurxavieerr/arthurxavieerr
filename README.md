@@ -4,8 +4,8 @@
 - 📖 Estudando Front-end avançado, Web & Mobile.
 - 📫 Contate-me via instagram: @arthurxavieerr
 <div style="display: inline_block"><br>
-    <img align="right" alt="arthurxavier-pic" height="180" width="" src="https://media.tenor.com/pecjIapTm8QAAAAC/anime.gif">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurxavieerr&show_icons=true&theme=github_dark"/><br>
+    <img align="right" alt="arthurxavier-pic" height="190" width="" src="https://media.tenor.com/pecjIapTm8QAAAAC/anime.gif">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=arthurxavieerr&show_icons=true&theme=github_dark"/><br>
   <img align="center" alt="sthanrlay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="sthanrlay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="sthanrlay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
