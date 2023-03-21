@@ -1,7 +1,8 @@
-### Olá! Sou Arthur Xavier, Sou Desenvolvedor Front-End👾
+### Olá! Sou Arthur Xavier, Sou Desenvolvedor Front-End👾🎨
 
-- 🎨 Hoje trabalho com Front-End
-- 📖 Estudando Front-end avançado, Web & Mobile.
+- 🤔 Me dedicar intensamente ao aprendizado e à prática.
+- 💼 Trabalhando como Front-End Freelancer.
+- 🌱 Aprendendo mais sobre ferramentas de Frontend e UI/UX Design.
 - 📫 Contate-me via instagram: @arthurxavieerr
 <div style="display: inline_block"><br>
     <img align="right" alt="arthurxavier-pic" height="190" width="" src="https://media.tenor.com/pecjIapTm8QAAAAC/anime.gif">
